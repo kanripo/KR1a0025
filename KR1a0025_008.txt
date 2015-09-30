@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易窺餘
-#+DATE: 2015-09-23 09:34:21
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 21:54:13.051947
+#+PROPERTY: ID KR1a0025
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1a0025_WYG_008-1a>¶
 欽定四庫全書¶
 　周易窺餘卷八　　　　宋　鄭剛中　撰¶
@@ -406,4 +408,3 @@
 象曰失得勿恤往有慶也¶
 上九晉其角維用伐邑厲吉无咎貞吝¶
 象曰維用伐邑道未光也¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易窺餘
-#+DATE: 2015-09-23 09:34:21
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 21:54:13.098471
+#+PROPERTY: ID KR1a0025
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1a0025_WYG_011-1a>¶
 欽定四庫全書¶
 　周易窺餘卷十一　　　　宋　鄭剛中　撰¶
@@ -465,4 +467,3 @@
 　可以反羸瓶之凶矣兹非有孚元吉之時歟井自泰¶
 　来坎乃坤之全體坤為吝故聖人至井成而戒收作¶
 　去聲讀者非¶
-

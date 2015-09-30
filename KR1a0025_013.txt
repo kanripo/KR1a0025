@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易窺餘
-#+DATE: 2015-09-23 09:34:21
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 21:54:13.135802
+#+PROPERTY: ID KR1a0025
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1a0025_WYG_013-1a>¶
 欽定四庫全書¶
 　周易窺餘卷十三　　　　宋　鄭剛中　撰¶
@@ -530,4 +532,3 @@
 　巢象不見故焚其巢震為笑巽為號咷三動坤為牛¶
 　大抵三不應上則坤象不見故喪牛兑性趨下上九¶
 　既自髙故兑口弗之告¶
-

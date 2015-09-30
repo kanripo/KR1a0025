@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易窺餘
-#+DATE: 2015-09-23 09:34:21
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 21:54:13.113126
+#+PROPERTY: ID KR1a0025
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1a0025_WYG_012-1a>¶
 欽定四庫全書¶
 　周易窺餘卷十二　　　　宋　鄭剛中　撰¶
@@ -458,4 +460,3 @@
 　上九艮終而不為極者盖時在可止則止无過極但¶
 　取其厚與臨之敦臨同也虞氏謂坤為厚陽上據坤¶
 　故以厚終¶
-

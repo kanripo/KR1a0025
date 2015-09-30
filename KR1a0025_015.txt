@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易窺餘
-#+DATE: 2015-09-23 09:34:21
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 21:54:13.181058
+#+PROPERTY: ID KR1a0025
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1a0025_WYG_015-1a>¶
 欽定四庫全書¶
 　周易窺餘卷十五　　　　宋　鄭剛中　撰¶
@@ -339,4 +341,3 @@
 　度失此无咎之義矣故聖人著濡首之戒坎為酒鼎¶
 　祚易謂乾為首在酒中失位故濡其首又否艮為節¶
 　飲酒濡首故不知節¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易窺餘
-#+DATE: 2015-09-23 09:34:21
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 21:54:13.013525
+#+PROPERTY: ID KR1a0025
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1a0025_WYG_006-1a>¶
 欽定四庫全書¶
 　周易窺餘卷六　　　　宋　鄭剛中　撰¶
@@ -532,4 +534,3 @@
 　之如是盖畜道大亨也上九乾也故為天互體震也¶
 　震為大塗故為天衢何所以設辭而啓其義也先儒¶
 　或音賀又取負荷之義于理未允¶
-
